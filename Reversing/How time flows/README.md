@@ -1,0 +1,26 @@
+# How time flows
+
+**Category:** Reversing  
+**Points:** 480  
+**Solves:** 16  
+
+## Description
+
+Time flows like a river. Don't be fooled by things you see on the surface. There might be something dangerous below the depths
+
+Author: `Nolawz`
+
+## Files
+
+- [chall](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/files/0d21206594a89f69d65c974cb665cbf9/chall)
+- [flag.txt.enc](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/files/ec718c067a06b832a080bda7bc77e115/flag.txt.enc)
+
+## Flag
+
+```
+flag{placeholder_flag_here}
+```
+
+## Writeup
+
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/How time flows_writeup.md)
