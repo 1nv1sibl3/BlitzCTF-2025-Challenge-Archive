@@ -46,5 +46,20 @@ File: 'Essay.docm'
 Found relationship 'hyperlink' with external link https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
+So, we’ve found nothing. Try unzipping/extracting the Essay.docm file.
 
+``
+unzip Essay.docm
+``
+You’ll receive extracted files of Doc file. Now, look at the vbaProject.bin
 
+So our mission is secret.zip Here is the hook. Well, actually the content of secret.zip was leaked inside vbaProject.bin in Base64 format.
+
+Base64: QmxpdHp7 → Blitz{
+
+```
+strings vbaProject.bin | grep QmxpdHp7
+
+QmxpdHp7MGwzX0QzTXBfTTNsMTBzfQoBase64: QmxpdHp7 → Blitz{
+```
+Sorry for the misleading points like Sup3rS3cretPassW0RD , secret.zip , and more. XD
