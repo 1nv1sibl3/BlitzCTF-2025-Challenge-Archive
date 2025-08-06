@@ -1,11 +1,3 @@
----
-layout: post
-title: "BlitzCTF - The Lost Dog OSINT"
-categories: [CTF Writeup, OSINT]
-tags: [BlitzCTF Writeup, The Lost Dog, OSINT]
-description: "Step-by-Step Writeup for BlitzCTF's The Lost Dog OSINT Challenge"
----
-
 ## Challenge Overview
 [BlitzCTF](https://ctf.blitzhack.xyz/) was proudly hosted and organized by my team [BlitzHack](https://blitzhack.xyz/), and this challenge was authored by me. This writeup provides an official solution to **"The Lost Dog"** challenge, which was in the OSINT category of the CTF.
 
@@ -47,8 +39,3 @@ Rover found a knothole at just the right height, put his butt against it, and em
 So I entered the flag Rover and boom it worked!!
 
 **Flag:** `Blitz{Rover}`
-
----
-
-Happy Hunting! Follow me on [Twitter/X](https://twitter.com/an0nbil) or connect to me on [LinkedIn](https://www.linkedin.com/in/realbilalsafdar/), you can also DM me on [Discord](https://discordapp.com/users/1275773488354824253) for any queries!
-
