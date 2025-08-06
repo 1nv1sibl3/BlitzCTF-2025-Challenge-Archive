@@ -18,4 +18,4 @@ Author: `an0nbil`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Stratogreet_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/Misc/Stratogreet/stratogreet.md)
