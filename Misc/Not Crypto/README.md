@@ -20,4 +20,4 @@ Author: `vedved`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Not Crypto_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/Misc/Not%20Crypto/Writeup.md)
