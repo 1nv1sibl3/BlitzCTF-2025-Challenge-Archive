@@ -17,9 +17,7 @@ Author: `Zwique`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{RaND0m_KEY_GENeRateD_By_Zwique}`
 
 ## Writeup
 

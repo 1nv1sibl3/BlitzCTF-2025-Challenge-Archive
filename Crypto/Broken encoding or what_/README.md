@@ -20,7 +20,7 @@ Author: `rahisec`
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{catch_me_if_you_can_qwerty_kids}
 ```
 
 ## Writeup

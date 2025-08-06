@@ -10,10 +10,14 @@ hunt our discord server
 
 Author: `Inv1s1bl3`
 
+## Setup
+Create private channels in discord server named with flag parts.
+![Bottom left]](image.png)
+
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{C0ngrAtul4t10Ns_0nnn_F1ndIng_Th1s}
 ```
 
 ## Writeup

@@ -21,10 +21,13 @@ P.S - wrap the words in correct order separated with _ in the Blitz{ }
 
 Author: `Inv1s1bl3`
 
+## Setup
+7 authors had each word as part of their main discord profile. 
+
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{S1l3nt_w4Tch3r_5lY_qU1cK_r3B3l_Ph4nT0m_L4uGh}
 ```
 
 ## Writeup

@@ -10,10 +10,15 @@ I just added a new feature to our utility bot but there seems to be data leak so
 
 Author: `Inv1s1bl3`
 
+## Setup 
+The flag was hidden in /payload command of BlitzHack#4867 bot. The app_commands file has been attached.
+- [modified payload.py](payload.py)
+- [Entire bot code](https://github.com/1nv1sibl3/Eruditus-Original-Fork)
+
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{h0w_w4s_th1s_n3w_f3atuR3?}
 ```
 
 ## Writeup

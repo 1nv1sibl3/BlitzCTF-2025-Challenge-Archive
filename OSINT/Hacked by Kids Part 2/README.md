@@ -12,9 +12,7 @@ Authors: `B34RN00B & Zwique`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{C24ck45_W17h_A7717ud3_F0r3v3r}`
 
 ## Writeup
 

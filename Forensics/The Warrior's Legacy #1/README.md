@@ -20,9 +20,7 @@ Author: `Inv1s1bl3`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{NBT_Is_Not_Just_For_Blocks}`
 
 ## Writeup
 

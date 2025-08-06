@@ -13,11 +13,12 @@ https://middleofnowhere-dhsbd8.blitzhack.xyz
 
 Author: `rahisec`
 
+## Setup
+- [middle of nowhere.zip](middle-of-nowhere.zip)
+
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{N3x7js_M1ddl3w4r3_Byyyyp4sssssss}`
 
 ## Writeup
 

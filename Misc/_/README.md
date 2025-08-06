@@ -12,10 +12,13 @@ nc pwn.blitzhack.xyz 6789
 
 Author: `Demonster`
 
+## Server Script
+- [server.py](server.py)
+
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{X723M3_73MP3247U23!!!}
 ```
 
 ## Writeup

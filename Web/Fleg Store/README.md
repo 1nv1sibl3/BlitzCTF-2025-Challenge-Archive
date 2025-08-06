@@ -12,11 +12,12 @@ https://flegstore-asd8webfs.blitzhack.xyz/login
 
 Author: `Shadowh`
 
+## Setup
+- [race.zip](race.zip)
+
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{FLEG_L00T3R_SH0P}`
 
 ## Writeup
 

@@ -12,11 +12,12 @@ http://maze-karo-1nv4g9s.blitzhack.xyz/
 
 Author: `Shadowh`
 
+## Setup
+- [maze karo.zip](<maze karo.zip>)
+
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{Cl3ar_Th3_W4y_4nd_1t_W1ll_B3_Cl34r3d}`
 
 ## Writeup
 

@@ -18,7 +18,7 @@ Author: `5h1kh4r`
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{Cust0m_RSA_OMGGG}
 ```
 
 ## Writeup

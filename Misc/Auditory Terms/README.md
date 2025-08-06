@@ -14,9 +14,7 @@ Author: `an0nbil`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{r0b0t1c_v0ice}`
 
 ## Writeup
 

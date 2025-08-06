@@ -19,9 +19,7 @@ Author: `Kaiz0r`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{4tt4ck3rs_d0n't_n33d_t0_gu3ss_wh3n_y0u_g1v3_4w4y_y0ur_3ntr0py_1n_d14gn0st1c5_us3rd4t4_4nd_t1m1ng_4r3_3n0ugh}`
 
 ## Writeup
 

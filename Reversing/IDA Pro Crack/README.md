@@ -22,9 +22,7 @@ Author: `Deit`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{r3vchall726272827.re2.blitzhack.xyz}`
 
 ## Writeup
 

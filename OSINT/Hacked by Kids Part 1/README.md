@@ -16,9 +16,7 @@ Author: `Zwique`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{1:16-mj-406}`
 
 ## Writeup
 

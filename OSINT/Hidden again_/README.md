@@ -13,7 +13,7 @@ Author: `inv1s1bl3`
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{s0c14l_m3d14_d3t3ct1v3_f0und_h1dd3n_tr34sur3}
 ```
 
 ## Writeup

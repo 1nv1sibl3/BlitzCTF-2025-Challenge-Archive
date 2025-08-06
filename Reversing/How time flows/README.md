@@ -17,9 +17,7 @@ Author: `Nolawz`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{71m3_5ur3_fl0w5_f457_l1k3_4_r1v3r_50m371m35}`
 
 ## Writeup
 

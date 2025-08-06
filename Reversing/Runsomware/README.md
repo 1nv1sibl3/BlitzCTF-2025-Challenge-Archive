@@ -15,9 +15,7 @@ Author: `Deit`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{https://youtu.be/LHCob76kigA?si=Dv-fEk7DlEWfIIRt}`
 
 ## Writeup
 

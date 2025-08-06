@@ -18,9 +18,7 @@ Author: `rahisec`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{H4rd3st_Pr0gr4m1ng_L4ngu3s?}`
 
 ## Writeup
 

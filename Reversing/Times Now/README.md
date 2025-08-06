@@ -26,9 +26,7 @@ Author: `5h1kh4r`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{C4m3L_T1m3S_h3h3}`
 
 ## Writeup
 

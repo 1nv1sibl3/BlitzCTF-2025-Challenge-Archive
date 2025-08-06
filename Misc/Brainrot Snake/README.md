@@ -22,9 +22,7 @@ Author: `B34RN00B`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{BrainRo7777_P0774N}`
 
 ## Writeup
 

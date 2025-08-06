@@ -16,9 +16,7 @@ Author: `R4VAN`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{h1dd3n_1n_5ight}`
 
 ## Writeup
 

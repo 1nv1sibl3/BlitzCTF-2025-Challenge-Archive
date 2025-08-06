@@ -17,9 +17,7 @@ Author: `Ravi`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`BlitzCTF{M4lwAr3_1s_C00L_w1tH_R4T_EncRypt3d_P1pel1n3_ZXllc2hpbnlfZ2lib3Vz}`
 
 ## Writeup
 

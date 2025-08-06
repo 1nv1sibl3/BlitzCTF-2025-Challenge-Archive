@@ -18,9 +18,7 @@ Author: `Kaiz0r`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{s4f3_n0t3_n0t_s0_s4f3_wh3n_r34d_h4s_nUll_t3rmin4T10n}`
 
 ## Writeup
 

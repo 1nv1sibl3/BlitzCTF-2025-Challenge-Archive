@@ -19,9 +19,7 @@ Author: `0x1337`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`BlitzHack{vm_vm_vm_is_fun_right}`
 
 ## Writeup
 

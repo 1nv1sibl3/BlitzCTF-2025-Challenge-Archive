@@ -12,15 +12,16 @@ http://ufmiotwo-asdhwsad.blitzhack.xyz/
 
 Author: `Nolawz`
 
+## Setup
+- [UFMIO2.zip](UFMIO2.zip)
+
 ## Files
 
 - [UFMIO2.zip](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/files/f3a109dcf978e87f4a6016792b84f535/UFMIO2.zip)
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{b1r7hd4y_p4r4d0x_3475_5h177y_h45h35_l1k3_7h15}`
 
 ## Writeup
 

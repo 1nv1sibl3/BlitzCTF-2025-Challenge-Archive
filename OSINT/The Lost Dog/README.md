@@ -18,9 +18,7 @@ Author: `an0nbil`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{Rover}`
 
 ## Writeup
 

@@ -14,9 +14,7 @@ Author: `an0nbil`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{1975_07_15}`
 
 ## Writeup
 

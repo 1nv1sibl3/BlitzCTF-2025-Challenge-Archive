@@ -12,11 +12,12 @@ http://flagdoor-cdsdwf9w.blitzhack.xyz/
 
 Author: `Shadowh`
 
+## Setup
+- [idor.zip](idor.zip)
+
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{ID0R_1s_FUN_w1TH_N3g4t1v3_IDs!?}`
 
 ## Writeup
 

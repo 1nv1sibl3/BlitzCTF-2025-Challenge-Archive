@@ -18,9 +18,7 @@ Author: `B34RN00B`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{painted_stork,200}`
 
 ## Writeup
 

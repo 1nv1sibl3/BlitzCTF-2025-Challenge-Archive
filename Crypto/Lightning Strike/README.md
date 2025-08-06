@@ -16,9 +16,7 @@ Author: `Demonster`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{17_h4pp3n5_50_f4s7_ZZZ}`
 
 ## Writeup
 

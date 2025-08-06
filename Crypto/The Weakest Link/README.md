@@ -16,9 +16,7 @@
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{0698_chinto1998_Neha06_R@hul98}`
 
 ## Writeup
 

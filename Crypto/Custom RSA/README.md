@@ -17,9 +17,7 @@ Author: `5h1kh4r`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{H0w_D4r3_y0u_br34k_My_RSA_Ag41n!!!}`
 
 ## Writeup
 

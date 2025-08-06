@@ -19,9 +19,7 @@ Author: `5h1kh4r`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{So_You_Have_Studied_Fibonacci_And_Collatz_Conjecture_Now?}`
 
 ## Writeup
 

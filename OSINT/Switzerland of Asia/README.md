@@ -16,9 +16,7 @@ Author: `Zwique`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{ALTa1_TaVAn_B0Gd_Mongolia}`
 
 ## Writeup
 

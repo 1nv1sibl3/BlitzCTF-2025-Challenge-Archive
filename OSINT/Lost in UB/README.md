@@ -18,9 +18,7 @@ Author: `Zwique`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{Epos_Hotel}`
 
 ## Writeup
 

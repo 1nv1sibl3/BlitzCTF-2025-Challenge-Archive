@@ -15,9 +15,7 @@ Author: `vedved`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{f1r3f0x_5h0uld_3ncrypt_c00k135}`
 
 ## Writeup
 

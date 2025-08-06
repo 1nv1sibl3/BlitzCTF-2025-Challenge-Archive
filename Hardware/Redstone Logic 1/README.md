@@ -15,9 +15,7 @@ Flag Format: if the output is Lamp on and Lamp on then: Blitz{11}
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{00}`
 
 ## Writeup
 

@@ -19,9 +19,7 @@ Author: `Shadowh`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{m0rs3i0t_15_b4d}`
 
 ## Writeup
 

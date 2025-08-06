@@ -12,11 +12,12 @@ https://flegstore2-d3gnh1ks.blitzhack.xyz/
 
 Author: `Shadowh`
 
+## Setup
+- [Flegstore 2.0.zip](<Flegstore 2.0.zip>)
+
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{FlEg_l00t3R_sh0p_Butt_w1th_cl1qu35}`
 
 ## Writeup
 

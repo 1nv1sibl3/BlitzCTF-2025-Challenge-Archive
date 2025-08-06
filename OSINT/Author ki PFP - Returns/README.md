@@ -19,9 +19,7 @@ Author: `5h1kh4r & Inv1s1bl3`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{keyboard_and_mouse}`
 
 ## Writeup
 

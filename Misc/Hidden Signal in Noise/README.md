@@ -16,9 +16,7 @@ Author: `Zwique`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{H1dd3n_4n4lyt1c_Ch4ll3ng3}`
 
 ## Writeup
 

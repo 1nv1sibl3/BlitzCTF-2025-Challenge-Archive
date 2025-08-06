@@ -17,7 +17,7 @@ Author: `B34RN00B`
 ## Flag
 
 ```
-flag{placeholder_flag_here}
+Blitz{1'm_4_nak}
 ```
 
 ## Writeup

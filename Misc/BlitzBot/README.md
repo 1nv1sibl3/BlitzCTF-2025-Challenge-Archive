@@ -31,9 +31,7 @@ Author: `Demonster`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{SUD0_M4K3_B07***}`
 
 ## Writeup
 

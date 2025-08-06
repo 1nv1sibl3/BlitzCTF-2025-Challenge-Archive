@@ -22,11 +22,14 @@ Find the transmission source and decode what the spirits are trying to tell us.
 
 Author: `Inv1s1bl3`
 
+
+## Setup
+- [setupchallenge.py to be put in app_commands](setupchallenge.py)
+- song.wav that bot needs to play, encoded using minimodem at 1200hz
+
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{th1s_w4sn't_th4t_h4rd}`
 
 ## Writeup
 

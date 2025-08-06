@@ -19,9 +19,7 @@ Author: `Ravi`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{R1de_0n_t1m3_s1ng1ng_0uT_th3_Th1ng5_Iv3_l0ng3d_t0_s4y_0nLy_y0u_c4n_m4k3_m3_f33l_Th1s_w4y!<3_584e7d59}`
 
 ## Writeup
 

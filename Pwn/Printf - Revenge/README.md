@@ -18,9 +18,7 @@ Author: `0x1337`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{fsb_r3v3ng3_unleashed_badd3ae1c9}`
 
 ## Writeup
 

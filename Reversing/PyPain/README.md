@@ -13,9 +13,7 @@ Author: `0x1337`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{t0p_s3cr3t_l0ckd0wn_1337}`
 
 ## Writeup
 

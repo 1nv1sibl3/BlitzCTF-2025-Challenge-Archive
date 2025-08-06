@@ -12,9 +12,7 @@ https://forms.gle/Cmayh7hBTCfBf4DfA
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{f33dback_Exp3rt}`
 
 ## Writeup
 

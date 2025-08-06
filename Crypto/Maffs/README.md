@@ -16,9 +16,7 @@ Author: `5h1kh4r`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{C4lcu1us_G0eS_Brrrrrrrrr!!!}`
 
 ## Writeup
 

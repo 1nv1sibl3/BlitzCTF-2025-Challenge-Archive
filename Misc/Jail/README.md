@@ -16,11 +16,12 @@ flag format: Blitz{Some_text}
 
 Author: `rahisec`
 
+## Setup
+- [jail.zip](jail.zip)
+
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{AbraCaDabra_gili_gili_suuuu_13377}`
 
 ## Writeup
 

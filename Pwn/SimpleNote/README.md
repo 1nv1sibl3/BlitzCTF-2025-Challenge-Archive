@@ -18,9 +18,7 @@ Author: `kuvee`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{f4stb1n_dr1ll_thr0ugh_m3m0ry_b4rr13r}`
 
 ## Writeup
 

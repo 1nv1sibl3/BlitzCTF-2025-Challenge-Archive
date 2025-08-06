@@ -14,9 +14,7 @@ Author: `Demonster`
 
 ## Flag
 
-```
-flag{placeholder_flag_here}
-```
+`Blitz{LAUGH}`
 
 ## Writeup
 
