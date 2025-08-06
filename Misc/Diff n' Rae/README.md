@@ -21,4 +21,4 @@ Author: `vedved`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Diff n' Rae_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/Misc/Diff%20n'%20Rae/Writeup.md)
