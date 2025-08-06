@@ -29,6 +29,9 @@ nc pwn.blitzhack.xyz 1234
 
 Author: `Demonster`
 
+## Setup
+- [server.py](server.py)
+
 ## Flag
 
 `Blitz{SUD0_M4K3_B07***}`
