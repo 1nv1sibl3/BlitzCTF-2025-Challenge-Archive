@@ -20,4 +20,4 @@ Author: `Zwique`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Hidden Signal in Noise_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Hidden%20Signal%20in%20Noise%20writeup.md)
