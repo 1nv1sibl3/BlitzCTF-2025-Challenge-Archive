@@ -25,4 +25,4 @@ Author: `Nolawz`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Unstoppable force meets immovable object_writeup.md)
+[View Writeup](https://aman333nolawz.github.io/blog/blitz-ctf-2025/1/)
