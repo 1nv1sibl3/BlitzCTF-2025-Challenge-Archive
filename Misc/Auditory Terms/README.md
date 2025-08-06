@@ -18,4 +18,4 @@ Author: `an0nbil`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Auditory Terms_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/Misc/Auditory%20Terms/auditory-terms.md)
