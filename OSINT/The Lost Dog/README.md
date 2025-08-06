@@ -22,4 +22,4 @@ Author: `an0nbil`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/The Lost Dog_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/OSINT/The%20Lost%20Dog/the-lost-dog.md)
