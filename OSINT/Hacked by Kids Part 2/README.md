@@ -16,4 +16,4 @@ Authors: `B34RN00B & Zwique`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Hacked by Kids Part 2_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/OSINT/Hacked%20by%20Kids%20Part%202/Writeup.md)
