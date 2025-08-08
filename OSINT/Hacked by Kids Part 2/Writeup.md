@@ -1,4 +1,4 @@
-# BlitzCTF 2025 — My Favorite Challenge (Part 2)
+# BlitzCTF 2025 — Hacked by Kids Part 2
 
 I’m proud to say that this is my favorite challenge I’ve created in BlitzCTF 2025 so far.
 
