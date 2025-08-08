@@ -20,4 +20,4 @@ Author: `Zwique`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Switzerland of Asia_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/OSINT/Switzerland%20of%20Asia/Writeup.md)
