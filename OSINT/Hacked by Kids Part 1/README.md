@@ -20,4 +20,4 @@ Author: `Zwique`
 
 ## Writeup
 
-[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025/blob/main/writeups/Hacked by Kids Part 1_writeup.md)
+[View Writeup](https://github.com/1nv1sibl3/BlitzCTF-2025-Challenge-Archive/blob/main/OSINT/Hacked%20by%20Kids%20Part%201/Writeup.md)
